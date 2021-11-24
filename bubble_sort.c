@@ -1,6 +1,6 @@
 /******************************************
  * This program is for adaptive bubble sorting
- * ************************************/
+ * ***************************************/
 
 #include <stdio.h>
 #include <stdlib.h>
